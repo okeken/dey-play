@@ -5,9 +5,9 @@ const Home: NextPage = () => {
   return (
     <div className="flex justify-center mt-12">
       <Iframe
-        url="https://multi-step-okeken.vercel.app/"
+        url="https://multi-step-okeken.vercel.app/multi-step"
         width="640px"
-        height="320px"
+        height="920px"
         id=""
         className=""
         display="block"
